@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xmNQwgZFFZL20yy3KPI7hOEGYBw3BXvcXU/LMJxDiMvLLYofjtn9f81LFfkvxdgDbltczj9qKu/0vJoOhG2WYg==",
+  "dgSpecHash": "8T6mB5nrNbBcaj/EerpW/0lablPKOyRTUPKj73n8a+sm3ateN5TXEbJh1L1Rtby5kbRFgze4QQFdLNyNNWhcgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\90553\\Desktop\\EminEvim\\Berkan.DAL\\Berkan.Data.csproj",
+  "projectFilePath": "C:\\Users\\90553\\Desktop\\EminEvimProj\\Berkan.DAL\\Berkan.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\90553\\.nuget\\packages\\castle.core\\4.2.1\\castle.core.4.2.1.nupkg.sha512",
     "C:\\Users\\90553\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.0.0\\microsoft.aspnetcore.jsonpatch.3.0.0.nupkg.sha512",

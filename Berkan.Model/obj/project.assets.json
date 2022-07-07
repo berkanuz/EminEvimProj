@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\90553\\Desktop\\EminEvim\\Berkan.Model\\Berkan.Model.csproj",
+      "projectUniqueName": "C:\\Users\\90553\\Desktop\\EminEvimProj\\Berkan.Model\\Berkan.Model.csproj",
       "projectName": "Berkan.Model",
-      "projectPath": "C:\\Users\\90553\\Desktop\\EminEvim\\Berkan.Model\\Berkan.Model.csproj",
+      "projectPath": "C:\\Users\\90553\\Desktop\\EminEvimProj\\Berkan.Model\\Berkan.Model.csproj",
       "packagesPath": "C:\\Users\\90553\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\90553\\Desktop\\EminEvim\\Berkan.Model\\obj\\",
+      "outputPath": "C:\\Users\\90553\\Desktop\\EminEvimProj\\Berkan.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\90553\\AppData\\Roaming\\NuGet\\NuGet.Config",

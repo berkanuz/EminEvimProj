@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hoql+0JjSrZ6C/CAsm6cfThhEVZecGNYf4dfcGjgYirBmSlFzUjT63YzKnsNEynRm50Xo7nTJMgP18rvfvLeTw==",
+  "dgSpecHash": "QF1UHZFAoKa3yAxjrzYC+CADAypKf9nGeJE118NTjDjzNIc5OniRojenf/6TQXaTH6zXGnOCMCpZR3s7sAxrvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\90553\\Desktop\\EminEvim\\Berkan.Model\\Berkan.Model.csproj",
+  "projectFilePath": "C:\\Users\\90553\\Desktop\\EminEvimProj\\Berkan.Model\\Berkan.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\90553\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
     "C:\\Users\\90553\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",

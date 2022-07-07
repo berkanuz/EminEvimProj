@@ -7562,11 +7562,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\90553\\Desktop\\EminEvim\\Berkan.App\\Berkan.App.csproj",
+      "projectUniqueName": "C:\\Users\\90553\\Desktop\\EminEvimProj\\Berkan.App\\Berkan.App.csproj",
       "projectName": "Berkan.App",
-      "projectPath": "C:\\Users\\90553\\Desktop\\EminEvim\\Berkan.App\\Berkan.App.csproj",
+      "projectPath": "C:\\Users\\90553\\Desktop\\EminEvimProj\\Berkan.App\\Berkan.App.csproj",
       "packagesPath": "C:\\Users\\90553\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\90553\\Desktop\\EminEvim\\Berkan.App\\obj\\",
+      "outputPath": "C:\\Users\\90553\\Desktop\\EminEvimProj\\Berkan.App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\90553\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7583,11 +7583,11 @@
         "netcoreapp3.0": {
           "targetAlias": "netcoreapp3.0",
           "projectReferences": {
-            "C:\\Users\\90553\\Desktop\\EminEvim\\Berkan.DAL\\Berkan.Data.csproj": {
-              "projectPath": "C:\\Users\\90553\\Desktop\\EminEvim\\Berkan.DAL\\Berkan.Data.csproj"
+            "C:\\Users\\90553\\Desktop\\EminEvimProj\\Berkan.DAL\\Berkan.Data.csproj": {
+              "projectPath": "C:\\Users\\90553\\Desktop\\EminEvimProj\\Berkan.DAL\\Berkan.Data.csproj"
             },
-            "C:\\Users\\90553\\Desktop\\EminEvim\\Berkan.Engines\\Berkan.Engines.csproj": {
-              "projectPath": "C:\\Users\\90553\\Desktop\\EminEvim\\Berkan.Engines\\Berkan.Engines.csproj"
+            "C:\\Users\\90553\\Desktop\\EminEvimProj\\Berkan.Engines\\Berkan.Engines.csproj": {
+              "projectPath": "C:\\Users\\90553\\Desktop\\EminEvimProj\\Berkan.Engines\\Berkan.Engines.csproj"
             }
           }
         }

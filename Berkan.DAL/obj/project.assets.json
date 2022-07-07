@@ -7128,11 +7128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\90553\\Desktop\\EminEvim\\Berkan.DAL\\Berkan.Data.csproj",
+      "projectUniqueName": "C:\\Users\\90553\\Desktop\\EminEvimProj\\Berkan.DAL\\Berkan.Data.csproj",
       "projectName": "Berkan.Data",
-      "projectPath": "C:\\Users\\90553\\Desktop\\EminEvim\\Berkan.DAL\\Berkan.Data.csproj",
+      "projectPath": "C:\\Users\\90553\\Desktop\\EminEvimProj\\Berkan.DAL\\Berkan.Data.csproj",
       "packagesPath": "C:\\Users\\90553\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\90553\\Desktop\\EminEvim\\Berkan.DAL\\obj\\",
+      "outputPath": "C:\\Users\\90553\\Desktop\\EminEvimProj\\Berkan.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\90553\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7149,8 +7149,8 @@
         "netcoreapp3.0": {
           "targetAlias": "netcoreapp3.0",
           "projectReferences": {
-            "C:\\Users\\90553\\Desktop\\EminEvim\\Berkan.Model\\Berkan.Model.csproj": {
-              "projectPath": "C:\\Users\\90553\\Desktop\\EminEvim\\Berkan.Model\\Berkan.Model.csproj"
+            "C:\\Users\\90553\\Desktop\\EminEvimProj\\Berkan.Model\\Berkan.Model.csproj": {
+              "projectPath": "C:\\Users\\90553\\Desktop\\EminEvimProj\\Berkan.Model\\Berkan.Model.csproj"
             }
           }
         }
