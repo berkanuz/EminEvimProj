@@ -1,0 +1,33 @@
+﻿@model CustomerItemModel
+<h2>@Model.CustomerListName | Create New Item</h2>
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="/">Home</a></li>
+        <li class="breadcrumb-item"><a asp-controller="Customer" asp-action="ListDetails" asp-route-listId="@Model.CustomerListId">@Model.CustomerListName</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Create New Item</li>
+    </ol>
+</nav>
+<form asp-controller="CustomerItem" asp-action="CreateItem" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <input asp-for="CustomerListId" type="hidden" />
+    <input asp-for="CustomerListName" type="hidden" />
+    <div class="mb-3">
+        <label asp-for="Text" class="form-label">Customer Item :</label>
+        <input asp-for="Text" class="form-control" />
+        <span asp-validation-for="Text" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="EndDate" class="form-label">End Date :</label>
+        <input asp-for="EndDate" class="form-control" />
+        <span asp-validation-for="EndDate" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+@if (!string.IsNullOrWhiteSpace(ViewBag.OperationMessage))
+{
+    <div class="alert alert-success" role="alert">
+        @ViewBag.OperationMessage
+        <br />
+        <a asp-controller="Customer" asp-action="ListDetails" asp-route-listId="@Model.CustomerListId">Go to List</a>
+    </div>
+}
